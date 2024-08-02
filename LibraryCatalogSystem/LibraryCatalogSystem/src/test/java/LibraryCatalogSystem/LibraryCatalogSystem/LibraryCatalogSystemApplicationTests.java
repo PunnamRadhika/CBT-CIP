@@ -1,10 +1,10 @@
-package com.example.demo;
+package LibraryCatalogSystem.LibraryCatalogSystem;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BankyyApplicationTests {
+class LibraryCatalogSystemApplicationTests {
 
 	@Test
 	void contextLoads() {
